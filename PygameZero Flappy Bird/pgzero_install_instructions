@@ -1,0 +1,8 @@
+Pygame Installation Instructions:
+
+1. Open Thonny
+2. On the bar, select "Tools"
+3. Select "Open System Shell"
+4. Give Thonny permission to the terminal if prompted
+5. Run the command to install pygame: pip3 install pygame
+6. Run the command to install pygame zero: pip3 install pgzero
